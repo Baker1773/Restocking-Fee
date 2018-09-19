@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestockingFee", "RestockingFee\RestockingFee.csproj", "{166CCB76-5705-4DC7-BA93-B0D698C13F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestockingFeeTests", "RestockingFeeTests\RestockingFeeTests.csproj", "{81159FDC-0F4B-44A5-A608-64E65D65EC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166CCB76-5705-4DC7-BA93-B0D698C13F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166CCB76-5705-4DC7-BA93-B0D698C13F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166CCB76-5705-4DC7-BA93-B0D698C13F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166CCB76-5705-4DC7-BA93-B0D698C13F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81159FDC-0F4B-44A5-A608-64E65D65EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81159FDC-0F4B-44A5-A608-64E65D65EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81159FDC-0F4B-44A5-A608-64E65D65EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81159FDC-0F4B-44A5-A608-64E65D65EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
